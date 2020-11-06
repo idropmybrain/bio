@@ -34,7 +34,7 @@ function App() {
           >
             <img
               width="100%"
-              src="https://media-exp1.licdn.com/dms/image/C5103AQEi3KpjbkX4rQ/profile-displayphoto-shrink_200_200/0?e=1600905600&amp;v=beta&amp;t=3l9kgUrVsD3sRErZF8LvyKZco4TAN27h770Xhe40spI"
+              src="https://media-exp1.licdn.com/dms/image/C5103AQEi3KpjbkX4rQ/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=qn3zl9A8MQC1hkNTgaXBvO6rkgZSJT3FeOrh1SvAlYU"
               height="200"
               alt="Edit photo"
               id="ember726"
